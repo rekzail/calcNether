@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-![Texto alternativo](./src//assets/res01.jpg.jpg)
+![Imagen de la app](./src//assets/res01.jpg)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
